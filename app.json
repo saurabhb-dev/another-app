@@ -25,11 +25,6 @@
       "plan": "heroku-postgresql"
     }
   ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
-    }
-  ],
   "environments": {
     "test": {
       "scripts": {
